@@ -19,3 +19,7 @@ def self.table_name
   table_info.each do |column|
     column_names << column["name"]
   end
+  
+  
+  
+end
